@@ -1,2 +1,3 @@
-# legacyfixer-api-requirements-test
-LegacyFixer controlled test: single nested api requirements file
+# LegacyFixer API requirements test
+
+Controlled test repo for verifying a single nested api/requirements.txt dependency file.
